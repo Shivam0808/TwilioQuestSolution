@@ -1,0 +1,11 @@
+REWARD 200 XP
+To unlock the chest of knowledge for House Hopper, you must understand that some APIs are remote, executing on another computer.
+
+Question - The code and computational resources required to fulfill an API call must be physically located on the computer where the API is called from.
+Answer - Fasle, it can be located remotely.
+
+
+Question - What four-letter acronym describes a type of remote API that has become a standard way in which remote APIs are exposed to developers?
+Answer - REST
+
+
