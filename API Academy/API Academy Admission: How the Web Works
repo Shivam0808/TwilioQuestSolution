@@ -7,3 +7,4 @@ Answer - HTTP
 Question - Sometimes a client computer needs to send additional information when it requests a web page or other resource from a server (like state that needs to persist across requests, such as "cookies"). What are these extra bits of information called?
 Answer - HEADER
 
+* I RECOMMEND WATCHING VEDIO OF API introduction course by Craig Dennis*
