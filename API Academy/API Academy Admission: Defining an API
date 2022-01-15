@@ -1,0 +1,13 @@
+
+REWARD 200 XP
+To unlock the chest of knowledge for House Turing, you must first define an API.
+
+Question - Fill in the blank - "API" stands for "Application Programming __________".
+Answer - Interface
+
+Question - Look at the code in the JavaScript code editor (click 'Show Code Editor' above). What is the name of the string function that provides an API for converting the     contents of the string to all caps?
+Code -  const allCapsString = 'yeet!'.toUpperCase();
+        console.log(allCapsString);
+Answer - toUpperCase
+
+* I RECOMMEND WATCHING VEDIO OF API introduction course by Craig Dennis*
