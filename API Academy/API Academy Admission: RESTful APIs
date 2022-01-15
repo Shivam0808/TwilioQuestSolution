@@ -1,0 +1,10 @@
+REWARD 200 XP
+To unlock the chest of knowledge for House von Neumann, you must learn about RESTful APIs.
+
+Question - What is the abstract name for a chunk of data that can be addressed by a URI and potentially transferred using a RESTful API?
+Answer - Resource
+
+Question - Which HTTP method/verb is most commonly used to create new data on a server in a RESTful API?
+Answer - Post
+
+
